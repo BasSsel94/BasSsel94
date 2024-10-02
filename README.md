@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BasSsel94 I'm Mechatronics Eng. and Athlete 
-- 👀 I’m interested in Two completely diff. fields 
+- 👋 @BasSsel94 I'm Mechatronics Eng. and Athlete 
+- 👀 I’m interested
 -     1-Sport >> Nutrition WorkingOut BodyBulding , 
 -     2-Tech >> BlockChain Coding Robotics ... and then Trading
-- 🌱 I’m currently learning Python and 3D modeling 
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on BlockChain industry
 - 📫 How to reach me ... Insta: BasSsel94 
 
